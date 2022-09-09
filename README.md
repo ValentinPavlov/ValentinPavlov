@@ -26,7 +26,7 @@ Here are some ideas to get you started:
    
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValentinPavlov)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-readme-stats.vercel.app/api?username=ValentinPavlov
-https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinPavlov&layout=compact
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinPavlov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
